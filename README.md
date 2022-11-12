@@ -1,1 +1,1 @@
-# codeacademy-practices
+# codeacademy-python2
